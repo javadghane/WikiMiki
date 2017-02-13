@@ -1,10 +1,9 @@
 # WikiMiki 
-<img src="https://d13yacurqjgara.cloudfront.net/users/248857/screenshots/2022892/dribbble_1x.jpg" width="100" height="100">
-
-
 An android Client for test mvp structure and testing on android app. 
 WikiMiki is showing world country and some detail of countries. 
 
+
+<img src="https://d13yacurqjgara.cloudfront.net/users/248857/screenshots/2022892/dribbble_1x.jpg" width="100" >
 #### logo from: https://dribbble.com/shots/2022892-WM-Logo
 
 
