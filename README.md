@@ -1,6 +1,10 @@
-# WikiMiki
+# WikiMiki 
+![WM logo](https://d13yacurqjgara.cloudfront.net/users/248857/screenshots/2022892/dribbble_1x.jpg?raw=true "Optional Title")
 An android Client for test mvp structure and testing on android app. 
 WikiMiki is showing world country and some detail of countries. 
+
+#### logo from: https://dribbble.com/shots/2022892-WM-Logo
+
 
 ## library that used in this app:
 + https://square.github.io/retrofit/ Retrofit: server communication. 
