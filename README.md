@@ -1,9 +1,10 @@
 # WikiMiki
 An android Client for test mvp structure and testing on android app. 
+WikiMiki is showing world country and some detail of countries. 
 
 ## library that used in this app:
 + https://square.github.io/retrofit/ Retrofit: server communication. 
-+ https://github.com/google/gson) gson: (se/de)riallize json. 
++ https://github.com/google/gson gson: (se/de)riallize json. 
 + http://jakewharton.github.io/butterknife/ butterknife: ui injection. 
 + http://square.github.io/dagger/ dagger: dependecy injection. 
 + https://github.com/orhanobut/logger logger: pretty logCat. 
