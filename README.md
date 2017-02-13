@@ -13,6 +13,8 @@ WikiMiki is showing world country and some detail of countries.
 
 
 ### all data are get from: 
+http://api.population.io/1.0/ 
+
 
 # Licence
 MIT
