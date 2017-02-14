@@ -18,6 +18,7 @@ public class mainActivityPresenter {
 
     public void setCountryList(ArrayList<country> countryList) {
         this.countries = countryList;
+        this.mv.addCountries(countryList);
     }
 
     public interface mainActivityView {

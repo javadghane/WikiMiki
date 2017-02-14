@@ -3,6 +3,8 @@ package ir.javadroid.mvpsimpletest;
 import android.app.Application;
 import android.content.Context;
 
+import com.orhanobut.logger.Logger;
+
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Retrofit;
@@ -22,6 +24,7 @@ public class App extends Application {
     public void onCreate() {
         super.onCreate();
         context = getApplicationContext();
+        Logger.init("MVP");
     }
 
     public static Retrofit getRetrofit() {
