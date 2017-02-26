@@ -14,7 +14,7 @@ public interface apiBase {
 
 
     @GET("countries")
-    Call<ArrayList<country>> getCountry();
+    Call<country> getCountry();
 
     @GET("population/{year}/{country}/")
     Call<ArrayList<country>> getCountry(@Path("year") String year, @Path("country") String country);

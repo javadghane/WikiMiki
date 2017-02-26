@@ -24,7 +24,7 @@ public class App extends Application {
     public void onCreate() {
         super.onCreate();
         context = getApplicationContext();
-        Logger.init("MVP");
+        Logger.init("OkHttp");
     }
 
     public static Retrofit getRetrofit() {
