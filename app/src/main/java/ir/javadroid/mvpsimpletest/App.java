@@ -18,6 +18,7 @@ public class App extends Application {
     public static Context context;
     public static Retrofit myRetrofit;
     static String BaseAddress = "http://api.population.io/1.0/";
+    //static String BaseAddress = "https://restcountries.eu/rest/v2/all";
 
 
     @Override
