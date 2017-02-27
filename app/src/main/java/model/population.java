@@ -9,14 +9,14 @@ public class population {
     private int females;
     private int males;
     private int age;
-    private String countryName;
+    private String country;
     private int year;
 
     public population(int femails, int males, int age, String countryName, int year) {
         this.females = femails;
         this.males = males;
         this.age = age;
-        this.countryName = countryName;
+        this.country = countryName;
         this.year = year;
     }
 
@@ -44,12 +44,12 @@ public class population {
         this.age = age;
     }
 
-    public String getCountryName() {
-        return countryName;
+    public String getCountry() {
+        return country;
     }
 
-    public void setCountryName(String countryName) {
-        this.countryName = countryName;
+    public void setCountryName(String country) {
+        this.country = country;
     }
 
     public int getYear() {
