@@ -1,10 +1,17 @@
 # WikiMiki 
 ![build status](https://travis-ci.org/javadghane/WikiMiki.svg?branch=master "build status")
+app in progress :). 
 
-An android Client for test mvp structure and testing on android app. 
-WikiMiki is showing world country and some detail of countries. 
+Simple android app for improving development in android domain, such as:
++ mvp structure
++ testing process
++ continuous integration
++ using strong library 
 
-#### Test apk can download from: https://github.com/javadghane/WikiMiki/blob/master/app/app-release.apk?raw=true
+WikiMiki just showing country with some detail about them.
+
+
+#### Test apk can be download from: https://github.com/javadghane/WikiMiki/blob/master/app/app-release.apk?raw=true
 
 <img src="https://d13yacurqjgara.cloudfront.net/users/248857/screenshots/2022892/dribbble_1x.jpg" width="100" >
 #### logo from: https://dribbble.com/shots/2022892-WM-Logo
