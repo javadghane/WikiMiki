@@ -14,8 +14,7 @@ WikiMiki just showing country with some detail about them.
 #### Test apk can be download from: https://github.com/javadghane/WikiMiki/blob/master/app/app-release.apk?raw=true
 
 <img src="https://d13yacurqjgara.cloudfront.net/users/248857/screenshots/2022892/dribbble_1x.jpg" width="100" >
-### logo from: 
-https://dribbble.com/shots/2022892-WM-Logo
+
 
 
 ## library that used in this app:
@@ -31,7 +30,7 @@ https://dribbble.com/shots/2022892-WM-Logo
 ### all data are get from: 
 http://api.population.io/1.0/ 
 
-
+logo from: https://dribbble.com/shots/2022892-WM-Logo
 # Licence
 MIT
 
