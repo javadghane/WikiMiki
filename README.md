@@ -1,8 +1,9 @@
-# WikiMiki 
-<img src="https://d13yacurqjgara.cloudfront.net/users/248857/screenshots/2022892/dribbble_1x.jpg" width="100" >
-
+# WikiMiki  
 ![build status](https://travis-ci.org/javadghane/WikiMiki.svg?branch=master "build status")
 app in progress :). 
+
+<img src="https://d13yacurqjgara.cloudfront.net/users/248857/screenshots/2022892/dribbble_1x.jpg" width="100" >
+
 
 Simple android app for improving development in android domain, such as:
 + mvp structure
