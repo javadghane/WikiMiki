@@ -1,4 +1,6 @@
 # WikiMiki 
+<img src="https://d13yacurqjgara.cloudfront.net/users/248857/screenshots/2022892/dribbble_1x.jpg" width="100" >
+
 ![build status](https://travis-ci.org/javadghane/WikiMiki.svg?branch=master "build status")
 app in progress :). 
 
@@ -13,7 +15,7 @@ WikiMiki just showing country with some detail about them.
 
 #### Test apk can be download from: https://github.com/javadghane/WikiMiki/blob/master/app/app-release.apk?raw=true
 
-<img src="https://d13yacurqjgara.cloudfront.net/users/248857/screenshots/2022892/dribbble_1x.jpg" width="100" >
+
 
 
 
