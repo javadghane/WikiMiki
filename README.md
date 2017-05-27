@@ -1,5 +1,6 @@
 # WikiMiki  
-![build status](https://travis-ci.org/javadghane/WikiMiki.svg?branch=master "build status")
+[![CircleCI](https://circleci.com/gh/javadghane/WikiMiki/tree/master.svg?style=svg)](https://circleci.com/gh/javadghane/WikiMiki/tree/master)
+
 app in progress :). 
 
 <img src="https://d13yacurqjgara.cloudfront.net/users/248857/screenshots/2022892/dribbble_1x.jpg" width="100" >
