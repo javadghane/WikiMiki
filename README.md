@@ -1,5 +1,5 @@
-# WikiMiki  
-[![CircleCI](https://circleci.com/gh/javadghane/WikiMiki/tree/master.svg?style=svg)](https://circleci.com/gh/javadghane/WikiMiki/tree/master)
+# WikiMiki  [![CircleCI](https://circleci.com/gh/javadghane/WikiMiki/tree/master.svg?style=svg)](https://circleci.com/gh/javadghane/WikiMiki/tree/master)
+
 
 app in progress :). 
 
